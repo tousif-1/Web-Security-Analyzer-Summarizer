@@ -15,3 +15,9 @@
 `ollama serve & `         # make sure the local Ollama server is running
 `ollama run llama3:8b`    # pull the model once (adjust name/version as needed)
 `streamlit run web_security_analyzer_app.py`
+
+## High-level Analysis of the application
+![image](https://github.com/user-attachments/assets/e08f7923-2155-4250-b09f-a0f34f74b3a7)
+
+## Deep Dive Analysis
+![image](https://github.com/user-attachments/assets/d90c5701-752d-45c7-8289-cb2044675fe4)
